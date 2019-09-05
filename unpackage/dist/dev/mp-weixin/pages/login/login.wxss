@@ -1,0 +1,65 @@
+
+.content{
+	width: 100%;
+}
+.back{
+	width:96%;
+	height:50rpx;
+	padding:2%;
+}
+.tx{
+	width: 100%;
+	height:400rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.login{
+	width:90%;
+	height:200rpx;
+	padding:5%;
+}
+.login-item{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding:15rpx;
+	border: 0;
+	border-bottom: solid 1px lavender;
+}
+.title{
+	width:15%;
+	height:50rpx;
+	padding:0 4%;
+	color: grey;
+}
+.text{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.btn{
+	color:#ffffff;
+	background: #007AFF;
+	margin:10% 4%;
+}
+

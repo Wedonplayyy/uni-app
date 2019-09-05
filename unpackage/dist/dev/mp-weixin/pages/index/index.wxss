@@ -1,0 +1,29 @@
+
+.content {
+	width: 100%;
+}
+.scroll{
+	white-space: nowrap;
+	width: 1600rpx;
+}
+.title{
+	padding:10rpx 8rpx;
+}
+.img{
+	display: inline-block;
+	padding:10rpx;
+}
+.img image{
+	width:170rpx;
+	height:220rpx;
+}
+.grid{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+.text{
+	font-size: 30rpx;
+	color: grey;
+	padding-top: 10rpx;
+}
+
